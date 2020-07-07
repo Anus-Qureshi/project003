@@ -15,7 +15,10 @@ function App() {
  <p> Is bary me socho  Or last me yhi Kahnga  </p>
  <p> Maryam Abbasi Sahiba , Anus Qureshi really loves you   </p> 
      */
-    <p> I updated my Website to see an update  to Ali Qureshi    </p> </p>
+    
+    
+    <p> I updated my Website to see an update  to Ali Qureshi    
+    </p>
         <a
           className="App-link"
           href="https://m.facebook.com/profile.php?id=100052436600530&pn_ref=ec_friends_card&ref=bookmarks"
